@@ -1,5 +1,5 @@
 {
-    "name": "phpexperts/php-evolver",
+    "name": "ravaelles/php-evolver",
     "description": "A generic PHP Genetic Algorithm Framework.",
     "keywords": [
         "GA",
@@ -7,7 +7,7 @@
         "AI",
         "Artifical Intelligence"
     ],
-    "homepage": "https://github.com/phpexpertsinc/php-evolver",
+    "homepage": "https://github.com/ravaelles/php-evolver",
     "license": "MIT",
     "authors": [
         {
@@ -28,7 +28,7 @@
         "tightenco/collect": "^5.6"
     },
     "require-dev": {
-        "phpunit/phpunit": "^7.0"
+        "phpunit/phpunit": "*"
     },
     "autoload": {
         "psr-4": {
